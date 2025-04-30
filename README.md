@@ -18,15 +18,15 @@ This Project is an innovative project aimed at leveraging cutting-edge technolog
 
 ## Some Screenshorts:
 <ul>
-<li> Landing Page <br> <img src = ""></img> </li>
+<li> Landing Page <br> <img src = "https://github.com/sreeram6301/Missing-Person-Detection-System/blob/main/core/public/static/img/image3.png"></img> </li>
   <li>Report Missing Case <br>
-      <img src = ""></img>
+      <img src = "https://github.com/sreeram6301/Missing-Person-Detection-System/blob/main/core/public/static/img/image2.png"></img>
       </li>
   <li> Face Detection <br> 
-      <img src = ""></img>
+      <img src = "https://github.com/sreeram6301/Missing-Person-Detection-System/blob/main/core/public/static/img/image1.png"></img>
     </li>
   <li> Mail <BR>
-    <img src = ""> </img>
+    <img src = "https://github.com/sreeram6301/Missing-Person-Detection-System/blob/main/core/public/static/img/image.png"> </img>
         </li>
 </ul>
 
