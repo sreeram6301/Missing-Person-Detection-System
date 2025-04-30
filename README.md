@@ -23,7 +23,7 @@ This Project is an innovative project aimed at leveraging cutting-edge technolog
       <img src = "https://github.com/sreeram6301/Missing-Person-Detection-System/blob/main/core/public/static/img/image2.png"></img>
       </li>
   <li> Face Detection <br> 
-      <img src = "https://github.com/sreeram6301/Missing-Person-Detection-System/blob/main/core/public/static/img/image 1.png"></img>
+      <img src = "https://github.com/sreeram6301/Missing-Person-Detection-System/blob/main/core/public/static/img/image1.png"></img>
     </li>
   <li> Mail <BR>
     <img src = "https://github.com/sreeram6301/Missing-Person-Detection-System/blob/main/core/public/static/img/image.png"> </img>
